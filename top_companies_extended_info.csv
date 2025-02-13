@@ -1,0 +1,29 @@
+Company,TotalCap,FFCap,LastPrice,DayHigh,DayLow,52WkHigh,52WkLow,Volume,ChangePerc,Macro,Sector,Industry,BasicIndustry
+TATASTEEL,174831.8,116064.48190218999,140.05,141.15,140.0,184.6,128.2,None,-0.3299999999999841,Commodities,Metals & Mining,Ferrous Metals,Iron & Steel
+INFY,792003.83,686731.111872072,1907.4,1919.75,1907.25,2006.45,1358.35,None,-1.6499999999998636,Information Technology,Information Technology,IT - Software,Computers - Software & Consulting
+MARUTI,340340.79,142275.97836663702,10825.0,10869.95,10770.0,13680.0,9737.65,None,88.39999999999964,Consumer Discretionary,Automobile and Auto Components,Automobiles,Passenger Cars & Utility Vehicles
+POWERGRID,289062.77,140693.787730732,310.8,313.1,308.75,366.25,226.05,None,0.6999999999999886,Utilities,Power,Power,Power - Transmission
+TITAN,297359.54,138469.06961134,3349.45,3371.85,3345.8,3886.95,3055.65,None,-3.950000000000273,Consumer Discretionary,Consumer Durables,Consumer Durables,Gems Jewellery And Watches
+HDFC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,None,0.0,Financial Services,Financial Services,Finance,Housing Finance Company
+ITC,598935.58,445189.161812013,478.7,481.85,478.65,528.5,399.35,None,0.25,Fast Moving Consumer Goods,Fast Moving Consumer Goods,Diversified FMCG,Diversified FMCG
+NESTLEIND,208474.88,77405.138221337,2162.25,2176.0,2158.2,2778.0,2145.4,None,-4.449999999999818,Fast Moving Consumer Goods,Fast Moving Consumer Goods,Food Products,Packaged Foods
+RELIANCE,1653916.06,828824.850672614,1222.2,1227.7,1222.0,1608.8,1201.5,None,-0.5499999999999545,Energy,Oil Gas & Consumable Fuels,Petroleum Products,Refineries & Marketing
+HDFCBANK,1374180.53,1367352.629033377,1796.85,1812.0,1796.8,1880.0,1363.55,None,-1.25,Financial Services,Financial Services,Banks,Private Sector Bank
+HEROMOTOCO,85219.8,55180.642128091,4261.0,4291.55,4257.55,6246.25,3929.85,None,1.8999999999996362,Consumer Discretionary,Automobile and Auto Components,Automobiles,2/3 Wheelers
+ICICIBANK,916483.87,917575.432347087,1298.5,1312.75,1298.25,1362.35,970.15,None,1.25,Financial Services,Financial Services,Banks,Private Sector Bank
+BHARTIARTL,907488.6,427523.35158929,1593.25,1602.05,1581.1,1779.0,989.65,None,9.349999999999909,Telecommunication,Telecommunication,Telecom - Services,Telecom - Cellular & Fixed line services
+HINDUNILVR,547125.82,207500.04148215402,2328.6,2341.85,2328.2,3035.0,2172.05,None,-6.950000000000273,Fast Moving Consumer Goods,Fast Moving Consumer Goods,Diversified FMCG,Diversified FMCG
+ULTRACEMCO,328636.55,130065.74750989799,11383.4,11500.0,11334.5,12145.35,9250.0,None,-6.950000000000728,Commodities,Construction Materials,Cement & Cement Products,Cement & Cement Products
+HCLTECH,513601.82,200624.749343674,1893.0,1908.9,1893.0,1980.0,1235.0,None,-3.9500000000000455,Information Technology,Information Technology,IT - Software,Computers - Software & Consulting
+KOTAKBANK,348177.25,257358.842615202,1751.25,1769.45,1750.5,1942.0,1543.85,None,2.2000000000000455,Financial Services,Financial Services,Banks,Private Sector Bank
+NTPC,323383.82,158181.354897628,333.5,337.4,333.5,448.45,296.55,None,-1.8000000000000114,Utilities,Power,Power,Power Generation
+DRREDDY,113158.63,82599.97760166801,1356.15,1360.2,1342.75,1421.49,1104.13,None,5.25,Healthcare,Healthcare,Pharmaceuticals & Biotechnology,Pharmaceuticals
+WIPRO,319375.89,86352.704606382,305.1,306.75,304.8,320.0,208.5,None,-0.19999999999998863,Information Technology,Information Technology,IT - Software,Computers - Software & Consulting
+AXISBANK,335494.17,309611.781535764,1084.0,1092.6,1082.0,1339.65,995.7,None,5.099999999999909,Financial Services,Financial Services,Banks,Private Sector Bank
+SUNPHARMA,435875.19,195976.683485903,1816.65,1825.0,1814.4,1960.35,1239.3,None,-2.349999999999909,Healthcare,Healthcare,Pharmaceuticals & Biotechnology,Pharmaceuticals
+ONGC,302367.01,93286.740648607,240.35,242.0,239.25,345.0,203.65,None,1.4000000000000057,Energy,Oil Gas & Consumable Fuels,Oil,Oil Exploration & Production
+TCS,1501506.32,424850.76097457204,4150.0,4199.95,4150.0,4592.25,3591.5,None,-29.5,Information Technology,Information Technology,IT - Software,Computers - Software & Consulting
+TECHM,165672.3,107510.85405572099,1693.1,1714.65,1691.75,1807.7,1162.95,None,-11.800000000000182,Information Technology,Information Technology,IT - Software,Computers - Software & Consulting
+SBIN,729543.06,314544.161508178,817.45,822.85,812.05,912.0,600.65,None,5.400000000000091,Financial Services,Financial Services,Banks,Public Sector Bank
+LT,501180.11,428653.041962645,3644.6,3665.15,3636.5,3963.5,3175.05,None,4.849999999999909,Industrials,Construction,Construction,Civil Construction
+BAJFINANCE,422814.82,191083.87603090602,6830.65,6853.55,6812.05,7830.0,6187.8,None,22.449999999999818,Financial Services,Financial Services,Finance,Non Banking Financial Company (NBFC)
