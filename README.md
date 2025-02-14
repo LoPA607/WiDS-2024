@@ -33,18 +33,16 @@ This project involves building and fine-tuning a Large Language Model (LLM) to c
    - Transformed the dataset into a question-answering format suitable for training the model.  
    - **Example Dataset Format (JSON)**:  
      ```json
-     [
-       {
-         "id": "1",
-         "question": "What are the latest quarterly results of Reliance Industries?",
-         "answers": ["Reliance Industries reported a net profit of ₹15,792 crore for Q3 FY24."]
-       },
-       {
-         "id": "2",
-         "question": "What is the stock price of TCS?",
-         "answers": ["The current stock price of TCS is ₹3,500 (as of the latest update)."]
-       }
-     ]
+            qa_pairs.append({
+                "id": f"{row['Symbol']}_{index + 1}j",
+                "question": f"What was the deliverable volume of {row['Symbol']} on {row['Date']}?",
+                "answers": [str(row['Deliverable Volume'])]
+            })
+            qa_pairs.append({
+                "id": f"{row['Symbol']}_{index + 1}k",
+                "question": f"What was the percentage deliverable of {row['Symbol']} on {row['Date']}?",
+                "answers": [str(row['%Deliverble'])]
+            })
      ```  
 
 ---
